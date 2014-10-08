@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: pesegato.plugins.hmprocessor
+OpenIDE-Module-Implementation-Version: 0
+OpenIDE-Module-Layer: pesegato/plugins/hmprocessor/layer.xml
+OpenIDE-Module-Localizing-Bundle: pesegato/plugins/hmprocessor/Bundle.properties
+
